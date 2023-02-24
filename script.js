@@ -10,4 +10,7 @@ const multiplicationResult = Number(firstNumber)*Number(secondNumber);
 const divisionResult = Number(firstNumber)/Number(secondNumber);
 
 
-alert(`The result: ${additionResult}, ${subtractionResult}, ${multiplicationResult}, ${divisionResult}`)
+alert(`The result of addition ${additionResult}`);
+alert(`The result of subtraction ${subtractionResult}`);
+alert(`The result of multiplication ${multiplicationResult}`);
+alert(`The result of division ${divisionResult}`)
